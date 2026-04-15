@@ -1,0 +1,4 @@
+site_name: Avirob
+nav:
+  - Introducción: index.md
+  - Archivos CAD: archivosCAD.md
